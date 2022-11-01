@@ -1,0 +1,20 @@
+{
+  "name": "kmarketer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MugaboDenys/KMarketer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MugaboDenys/KMarketer/issues"
+  },
+  "homepage": "https://github.com/MugaboDenys/KMarketer#readme"
+}
