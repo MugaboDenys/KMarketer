@@ -488,7 +488,7 @@ header{
     display: grid;
     grid-template-columns: repeat(6, 1fr);
 }
-.foooter__content-col--span{
+.footer__content-col--span{
     grid-column: span 2;
 }
 .footer__col-title{
@@ -551,7 +551,7 @@ header{
         gap: 2rem;
         grid-template-columns: repeat(1, 1fr);
     }
-    .foooter__content-col--span{
+    .footer__content-col--span{
         grid-column: span 1;
     }
     .copyrights{
